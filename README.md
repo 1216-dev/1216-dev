@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Devshree Jadeja</h1>
 <h3 align="center">MS in Data sceince @Stony Brook</h3>
 
-<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align=“right” alt=“coding” width=“300” height="300" padding-right="0px">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1216-dev&label=Profile%20views&color=0e75b6&style=flat" alt="1216-dev" /> </p>
 
 <p align="left"> <a href="https://twitter.com/whyyshree" target="blank"><img src="https://img.shields.io/twitter/follow/whyyshree?logo=twitter&style=for-the-badge" alt="whyyshree" /></a> </p>
-
+<img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" align=“right” alt=“coding” width=“300” height="300" padding-right="0px">
 - 🔭 I’m currently working on **Lane Detection**
 
 - 👯 I’m looking to collaborate on **Research Work**
