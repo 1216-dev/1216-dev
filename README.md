@@ -1,4 +1,4 @@
-[![GitHub ReadMe Header][(https://github.com/1216-dev/1216-dev/blob/main/clideo_editor_85d5b656afe944b68f4e9e8c7e6861ef.gif)](https://github.com/1216-dev/banner_making)
+![GitHub ReadMe Header](https://github.com/1216-dev/1216-dev/blob/main/clideo_editor_85d5b656afe944b68f4e9e8c7e6861ef.gif)
 ## Hej there, I'm Devshree!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 
