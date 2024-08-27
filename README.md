@@ -1,3 +1,4 @@
+![logo](https://github.com/1216-dev/1216-dev/blob/main/Black%20Gradient%20Minimalistic%20Future%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Devshree Jadeja</h1>
 <h3 align="center">MS in Data sceince @Stony Brook</h3>
 
