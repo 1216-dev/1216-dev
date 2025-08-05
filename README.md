@@ -1,6 +1,9 @@
 ![GitHub ReadMe Header](https://github.com/1216-dev/1216-dev/blob/main/riddhi_banne_new.gif)
 ## Hey there, I'm Devshree!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/fb/02/02/fb02020ef81adf1409a8c7745dd40854.jpg" width="600" alt="Banner Image">
+</p>
 
 <!-- Stats Dashboard -->
 
